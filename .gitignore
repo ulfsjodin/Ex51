@@ -1,0 +1,9 @@
+__*
+.cache
+backups/
+flask-venv/
+app/apple.py
+templates/layout.html
+tests/test_apple.py
+tests/tests_2_app.py
+tests/test2_app.py
