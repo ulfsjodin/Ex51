@@ -1,6 +1,6 @@
 import pytest
 from app import app
-import flask
+from flask import Flask
 
 app = Flask(__name__)
 app.config['DEBUG'] = True
